@@ -2443,6 +2443,7 @@ input:checked + .toggle-bg {
   .theRealAntiSkidIMG {
     border-radius: 25%;
     padding-top: 10px;
+    padding-left: 50px;
   }
 
   .xl\:text-6xl {
