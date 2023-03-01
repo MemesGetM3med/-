@@ -2442,10 +2442,12 @@ input:checked + .toggle-bg {
   
   .theRealAntiSkidIMG {
     border-radius: 25%;
-    padding-top: 10px;
-    padding-left: 50px;
   }
-
+  
+  .subscribetoM3meyRoblox {
+    padding-bottom: 15px;
+  }
+  
   .xl\:text-6xl {
     font-size: 3.75rem;
     line-height: 1;
