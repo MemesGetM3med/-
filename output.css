@@ -2439,6 +2439,10 @@ input:checked + .toggle-bg {
   .xl\:p-8 {
     padding: 2rem;
   }
+  
+  .theRealAntiSkidIMG {
+    border-radius: 25%;
+  }
 
   .xl\:text-6xl {
     font-size: 3.75rem;
